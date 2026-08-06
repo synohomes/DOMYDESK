@@ -13,7 +13,7 @@
      {
     "id": "proxv2",
     "name": "Proxmox",
-    "description": "🆓 Modules vous permettant de visualiser vos VM de votre Proxmox, créer une VM, ajouter des ISO et quelques contrôles comme redémarrer, démarrer, stopper, reset une VM.",
+    "description": "🆓 Gestion Proxmox multi-node pour DoMyDesk. Ouvrir la console noVNC d’une VM/CT avec clavier, souris et presse-papiers. Démarrer une VM ou un conteneur arrêté. Demander un arrêt propre de la VM ou du conteneur. Redémarrer une VM ou un conteneur. Forcer l’arrêt immédiat d’une VM ou d’un conteneur...",
     "version": "1.2",
     "author": "SynoHomes",
     "category": "Informatique",
