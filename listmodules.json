@@ -64,6 +64,17 @@
 	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/netscan.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-netscan.zip",
     "enabled": true
+  },
+  {
+    "id": "dmd-ticketing",
+    "name": "Ticketing",
+    "description": "🆓🔄 Module pour vous permettre de créer un ticket d'incident, demande soit en internet soit chez DoMyCo.",
+    "version": "1.2.6",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/ticketing.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-ticketing.zip",
+    "enabled": true
   }
 ]
 
