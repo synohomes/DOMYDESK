@@ -1,0 +1,85 @@
+[
+  {
+    "id": "meteov2",
+    "name": "Meteo",
+    "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
+    "version": "1.2.2",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
+    "enabled": true
+  },
+     {
+    "id": "proxv2",
+    "name": "Proxmox",
+    "description": "🆓 Modules vous permettant de visualiser vos VM de votre Proxmox, créer une VM, ajouter des ISO et quelques contrôles comme redémarrer, démarrer, stopper, reset une VM.",
+    "version": "1.2",
+    "author": "SynoHomes",
+    "category": "Informatique",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/proxv2.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Todolist",
+    "name": "To-Do-List",
+    "description": "🆓🔄 Créer votre ToDoList, la partager avec quelqu'un et collaborez ensemble.",
+    "version": "2.1.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/todolist.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Folder",
+    "name": "Folder",
+    "description": "🆓🔄 Module qui vous permet de naviguer dans votre dossier DoMyDesk, pour les administrateurs vous pourrez naviguer dans tout le dossier /domydeks. Chacun pourra renommer, supprimer, ajouter des documents, fichiers. Les administrateurs pourront vous donner des droits bien précis sur le module.",
+    "version": "1.7.1",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/folder.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "enabled": true
+  },
+  {
+    "id": "dmd-3dprint",
+    "name": "3D Printers",
+    "description": "🆓🔄 Module de gérer vos imprimantes 3D et vos prises connectées. Vous pourrez visionner l'avancement des impressions, suivre la caméra, ajouter des fichiers ...",
+    "version": "1.0.9",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/3dprint.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
+    "enabled": true
+  },
+  {
+    "id": "dmd-netscan",
+    "name": "netScan",
+    "description": "🆓🔄 Module pour vous permettre de scanner un réseau, un sous réseau. Il vous permettra aussi de connaitre les ports utilisés, exporter la liste sous différents formats.",
+    "version": "1.0.9",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/netscan.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-netscan.zip",
+    "enabled": true
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
