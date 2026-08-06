@@ -42,6 +42,17 @@
 	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/folder.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
     "enabled": true
+  },
+  {
+    "id": "dmd-3dprint",
+    "name": "Module 3D Printers",
+    "description": "🆓🔄 Module de gérer vos imprimantes 3D et vos prises connectées. Vous pourrez visionner l'avancement des impressions, suivre la caméra, ajouter des fichiers ...",
+    "version": "1.0.9",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/3dprint.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
+    "enabled": true
   }
 ]
 
