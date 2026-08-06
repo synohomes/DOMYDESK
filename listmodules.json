@@ -1,7 +1,7 @@
 [
   {
     "id": "meteov2",
-    "name": "Module Meteo",
+    "name": "Meteo",
     "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
     "author": "SynoHomes",
@@ -12,7 +12,7 @@
   },
      {
     "id": "proxv2",
-    "name": "Module View Proxmox",
+    "name": "Proxmox",
     "description": "🆓 Modules vous permettant de visualiser vos VM de votre Proxmox, créer une VM, ajouter des ISO et quelques contrôles comme redémarrer, démarrer, stopper, reset une VM.",
     "version": "1.2",
     "author": "SynoHomes",
@@ -23,7 +23,7 @@
   },
   {
     "id": "DMD-Todolist",
-    "name": "Module To-Do-List",
+    "name": "To-Do-List",
     "description": "🆓🔄 Créer votre ToDoList, la partager avec quelqu'un et collaborez ensemble.",
     "version": "2.1.0",
     "author": "SynoHomes",
@@ -34,7 +34,7 @@
   },
   {
     "id": "DMD-Folder",
-    "name": "Module Folder",
+    "name": "Folder",
     "description": "🆓🔄 Module qui vous permet de naviguer dans votre dossier DoMyDesk, pour les administrateurs vous pourrez naviguer dans tout le dossier /domydeks. Chacun pourra renommer, supprimer, ajouter des documents, fichiers. Les administrateurs pourront vous donner des droits bien précis sur le module.",
     "version": "1.7.1",
     "author": "SynoHomes",
@@ -45,7 +45,7 @@
   },
   {
     "id": "dmd-3dprint",
-    "name": "Module 3D Printers",
+    "name": "3D Printers",
     "description": "🆓🔄 Module de gérer vos imprimantes 3D et vos prises connectées. Vous pourrez visionner l'avancement des impressions, suivre la caméra, ajouter des fichiers ...",
     "version": "1.0.9",
     "author": "SynoHomes",
