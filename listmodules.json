@@ -6,7 +6,7 @@
     "version": "1.2.2",
     "author": "SynoHomes",
     "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png?raw=true",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
     "enabled": true
   },
@@ -17,7 +17,7 @@
     "version": "1.2",
     "author": "SynoHomes",
     "category": "Informatique",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png?raw=true",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/proxv2.zip",
     "enabled": true
   },
@@ -28,7 +28,7 @@
     "version": "2.1.0",
     "author": "SynoHomes",
     "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png?raw=true",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
     "enabled": true
   }
