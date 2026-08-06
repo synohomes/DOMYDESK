@@ -28,7 +28,7 @@
     "version": "2.1.0",
     "author": "SynoHomes",
     "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/todolist.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
     "enabled": true
   }
