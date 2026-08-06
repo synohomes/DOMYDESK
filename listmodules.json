@@ -24,7 +24,7 @@
   {
     "id": "DMD-Todolist",
     "name": "To-Do-List",
-    "description": "🆓🔄 Créer votre ToDoList, la partager avec quelqu'un et collaborez ensemble.",
+    "description": "🆓🔄 Gestion de tâches personnelles ou partagées avec synchronisation des statuts, checklists, modifications, historique et notifications entre utilisateurs. Ajouter, modifier, supprimer ou cocher les étapes d'une checklist. Ajouter ou retirer des participants à une tâche synchronisée. Afficher l'historique des actions et les fiches de tâches. Imprimer une fiche ou l'historique complet et utiliser l'impression PDF du navigateur...",
     "version": "2.1.0",
     "author": "SynoHomes",
     "category": "Productivité",
