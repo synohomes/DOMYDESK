@@ -31,6 +31,17 @@
 	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/todolist.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-Folder",
+    "name": "Module Folder",
+    "description": "🆓🔄 Module qui vous permet de naviguer dans votre dossier DoMyDesk, pour les administrateurs vous pourrez naviguer dans tout le dossier /domydeks. Chacun pourra renommer, supprimer, ajouter des documents, fichiers. Les administrateurs pourront vous donner des droits bien précis sur le module.",
+    "version": "1.7.1",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/folder.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "enabled": true
   }
 ]
 
