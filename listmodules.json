@@ -53,6 +53,17 @@
 	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/3dprint.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
     "enabled": true
+  },
+  {
+    "id": "dmd-netscan",
+    "name": "netScan",
+    "description": "🆓🔄 Module pour vous permettre de scanner un réseau, un sous réseau. Il vous permettra aussi de connaitre les ports utilisés, exporter la liste sous différents formats.",
+    "version": "1.0.9",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/netscan.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-netscan.zip",
+    "enabled": true
   }
 ]
 
