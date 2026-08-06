@@ -57,7 +57,7 @@
   {
     "id": "dmd-netscan",
     "name": "netScan",
-    "description": "🆓🔄 Module pour vous permettre de scanner un réseau, un sous réseau. Il vous permettra aussi de connaitre les ports utilisés, exporter la liste sous différents formats.",
+    "description": "🆓🔄 Découverte réseau, inventaire des hôtes, ActionHub, Quick-Session, exports, partages, planification et intégration Infra. Afficher les voisins ARP vus par l’hôte DoMyDesk. Consulter les journaux opérationnels personnels du module. Transmettre le dernier scan vers l’intégration Infra configurée. Publier et utiliser les hôtes NetScan comme ressources ActionHub.",
     "version": "1.0.9",
     "author": "SynoHomes",
     "category": "Productivité",
