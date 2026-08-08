@@ -1,15 +1,12 @@
 [
-  {
-    "id": "meteov2",
-    "name": "Meteo",
-    "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
-    "version": "1.2.2",
-    "author": "SynoHomes",
-    "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png",
-    "download_url": "https://github.com/synohomes/DMD-Updates/raw/refs/heads/main/NS26001.01.zip",
-    "enabled": true
-  }
+{
+    "titre": "Update News",
+    "soustitre": "Nouveau lien pour les updates de modules",
+    "date": "Juillet 2026",
+    "update": "Module",
+    "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
+    "url": "https://github.com/synohomes/DMD-Updates/raw/refs/heads/main/NS26001.01.zip"        
+}
 ]
 
 
