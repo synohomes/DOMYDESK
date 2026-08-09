@@ -1,13 +1,15 @@
+
 [
-{
-    "titre": "Updates Système",
-    "soustitre": "Essai du fichier sur GitHub",
-    "date": "2026-08-09",
-    "update": "1.2.1",
-    "description": "Ceci est une mise à jour système de test.",
-    "download_url": "https://github.com/synohomes/DOMYDESK/raw/refs/heads/main/updates/DoMyDesk-1.2.1.zip"
-}
+    {
+        "titre": "Update TEST",
+        "soustitre": "Test du catalogue système",
+        "date": "2026-08-09",
+        "update": "1.2.1-test",
+        "description": "Ceci est uniquement une entrée de test pour vérifier que DoMyDesk récupère correctement le catalogue depuis GitHub.",
+        "download_url": "https://github.com/synohomes/DOMYDESK/raw/refs/heads/main/test-update.zip"
+    }
 ]
+
 
 
 
