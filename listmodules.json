@@ -1,6 +1,6 @@
 [
   {
-    "id": "meteov",
+    "id": "meteo",
     "name": "Meteo",
     "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
