@@ -10,17 +10,6 @@
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
     "enabled": true
   },
-	{
-    "id": "meteo2",
-    "name": "Meteo2",
-    "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
-    "version": "1.2.2",
-    "author": "SynoHomes",
-    "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
-    "enabled": true
-  },
      {
     "id": "proxv2",
     "name": "Proxmox",
