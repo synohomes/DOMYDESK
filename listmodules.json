@@ -1,7 +1,7 @@
 [
   {
     "id": "meteov",
-    "name": "Meteo2",
+    "name": "Meteo",
     "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
     "author": "SynoHomes",
@@ -14,7 +14,7 @@
     "id": "proxv2",
     "name": "Proxmox",
     "description": "🆓 Gestion Proxmox multi-node pour DoMyDesk. Ouvrir la console noVNC d’une VM/CT avec clavier, souris et presse-papiers. Démarrer une VM ou un conteneur arrêté. Demander un arrêt propre de la VM ou du conteneur. Redémarrer une VM ou un conteneur. Forcer l’arrêt immédiat d’une VM ou d’un conteneur...",
-    "version": "1.3",
+    "version": "1.2.5",
     "author": "SynoHomes",
     "category": "Informatique",
 	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/proxmox.png",
