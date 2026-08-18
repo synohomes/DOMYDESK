@@ -1,5 +1,6 @@
 LICENCE GLOBALE — DoMyDesk & DoMyCo
 Contrat de Licence Source-Disponible (Source-Available License Agreement)
+
 Version : 1.1  |  Éditeur : Synohomes  |  Date de révision : Juin 2026 
 
 En installant, copiant, modifiant, distribuant ou utilisant tout ou partie du logiciel DoMyDesk ou de
