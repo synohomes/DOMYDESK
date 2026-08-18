@@ -8,9 +8,10 @@
     "url": "https://github.com/synohomes/Update/raw/refs/heads/main/lienpdfdelaprocedure.pdf"        
 },
 {
-    "name": "LICENCE",
+    "titre": "LICENCE",
+    "soustitre": "Consulter la licence DoMyDesk",
     "date": "2026-06-01",
-    "description": "LICENCE",
+    "description": "LICENCE Domydesk",
     "pdf": "https://github.com/synohomes/newsdomydesk/blob/main/LICENCE.pdf",
     "size": "33.8 KB"
   }
