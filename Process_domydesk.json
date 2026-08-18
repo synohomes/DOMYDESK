@@ -1,4 +1,4 @@
-
+[
     {
     "titre": "Installer DoMySocial",
     "soustitre": "Procédure: Installation",
@@ -15,5 +15,5 @@
     "description": "Comment installer DoMySocial sur votre serveur",
     "url": "https://github.com/synohomes/Update/raw/refs/heads/main/lienpdfdelaprocedure.pdf"        
 }
-
+]
 
