@@ -25,7 +25,7 @@
     "id": "DMD-Animals",
     "name": "Animals",
     "description": "🆓🔄 Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
-    "version": "1.4.0",
+    "version": "1.6.2",
     "author": "SynoHomes",
     "category": "Productivité",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdanimals.png",
@@ -36,11 +36,44 @@
     "id": "DMD-Contact",
     "name": "Contacts",
     "description": "🆓🔄 Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
-    "version": "1.4.0",
+    "version": "1.4.3",
     "author": "SynoHomes",
     "category": "Productivité",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdcontact.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Contact.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Converter",
+    "name": "Converter",
+    "description": "🆓🔄 Convertir toutes les unités facilement et rapidement.",
+    "version": "1.9.8",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/converter.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Converter.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Folder",
+    "name": "Folder",
+    "description": "🆓🔄 Comment naviguer dans votre dossier DoMyDesk et pouvoir ajouter/supprimer/renommer facilement vos fichiers et dossier.",
+    "version": "1.2.7",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdfolder.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Folder.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Games",
+    "name": "Games",
+    "description": "🆓🔄 22 petits jeux pour vous détendre.",
+    "version": "1.1.7",
+    "author": "SynoHomes",
+    "category": "Games",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/games.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Games.zip",
     "enabled": true
   }
 ]
