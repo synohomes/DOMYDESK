@@ -71,9 +71,42 @@
     "description": "🆓🔄 22 petits jeux pour vous détendre.",
     "version": "1.1.7",
     "author": "SynoHomes",
-    "category": "Games",
+    "category": "Jeux",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/games.png",
     "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Games.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-GenPW",
+    "name": "VaultPassword",
+    "description": "🆓🔄 Coffre fort sécurisé pour vos mot de passe, générateur de mot de passe, tout vos identifiants pour votre site web, vos mots de passe WIFI, des notes sécurisés, partages de vos informations avec une personne dans Domydesk et bien d'autres options.",
+    "version": "2.1.7",
+    "author": "SynoHomes",
+    "category": "Sécurité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/genpw.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-GenPW.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Ha.V2",
+    "name": "HomeAssistantremote",
+    "description": "🆓🔄 Controler / Visualiser votre HommeAssistant directement depuis Domydesk.",
+    "version": "1.1.7",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Ha.V2.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Proxmox",
+    "name": "Proxmox remote",
+    "description": "🆓🔄 Plus besoin d'aller sur votre proxmox pour ajouter un ISO, créer une VM, visualiser votre VM, contrôler en remote votre VM, supprimer une VM et bien d'autres actions, une gestion simple de votre virtualiseur.",
+    "version": "2.4.7",
+    "author": "SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/proxmoxv2.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Proxmox.zip",
     "enabled": true
   }
 ]
