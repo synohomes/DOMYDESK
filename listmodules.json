@@ -93,7 +93,7 @@
     "description": "🆓🔄 Controler / Visualiser votre HommeAssistant directement depuis Domydesk.",
     "version": "1.1.7",
     "author": "SynoHomes",
-    "category": "Productivité",
+    "category": "Domotique",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Ha.V2.zip",
     "enabled": true
@@ -107,6 +107,39 @@
     "category": "IT",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/proxmoxv2.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Proxmox.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Remote",
+    "name": "Proxmox remote",
+    "description": "🆓🔄 Controler, administrer tous vos ordinateurs Windows après leur avoir installé l'agent DMD-Agent & DMD-MyDesk.",
+    "version": "3.4.7",
+    "author": "SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-ToDoList",
+    "name": "To Do List",
+    "description": "🆓🔄 Gérer vos tâches à faire rapidement et efficacement, vous pouvez partager une liste de tâches et agir ensemble sur cette liste.",
+    "version": "4.0.7",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-3dprint",
+    "name": "Imprimante 3D",
+    "description": "🆓🔄 Gérer votre imprimante 3D directement sur le dashboard ou sur votre bureau en PWA.",
+    "version": "1.1.7",
+    "author": "SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmd3dprint.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
     "enabled": true
   }
 ]
