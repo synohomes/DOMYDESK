@@ -152,6 +152,17 @@
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/ticketing.png",
     "download_url": "https://github.com/synohomes/DMD-modules/blob/main/dmd-ticketing.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-Photos",
+    "name": "Album photos",
+    "description": "🆓🔄 Créer, partager, trier vos photos et vos albums photos.",
+    "version": "1.1.7",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdphotos.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Photos.zip",
+    "enabled": true
   }
 ]
 
