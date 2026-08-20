@@ -6,7 +6,7 @@
     "version": "1.2.2",
     "author": "SynoHomes",
     "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/meteo.png",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdmeteo2.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
     "enabled": true
   },
@@ -17,8 +17,30 @@
     "version": "2.1.0",
     "author": "SynoHomes",
     "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-Avatars/blob/main/todolist.png",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/todolist.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Animals",
+    "name": "Animals",
+    "description": "🆓🔄 Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
+    "version": "1.4.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdanimals.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Animals.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Contact",
+    "name": "Contacts",
+    "description": "🆓🔄 Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
+    "version": "1.4.0",
+    "author": "SynoHomes",
+    "category": "Productivité",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdcontact.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Contact.zip",
     "enabled": true
   }
 ]
