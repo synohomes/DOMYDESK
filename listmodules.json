@@ -141,6 +141,17 @@
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmd3dprint.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-Ticketing",
+    "name": "Ticketing",
+    "description": "🆓🔄 Créer un ticket d'incidant en interne ou directement chez Synohomes / DoMyCo.",
+    "version": "2.0.7",
+    "author": "SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/ticketing.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/dmd-ticketing.zip",
+    "enabled": true
   }
 ]
 
