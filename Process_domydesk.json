@@ -1,18 +1,10 @@
 [
-    {
-    "titre": "Installer DoMySocial",
-    "soustitre": "Procédure: Installation",
-    "date": "Juillet 2026",
-    "type": "Procédure",
-    "description": "Comment installer DoMySocial sur votre serveur",
-    "url": "https://github.com/synohomes/DOMYDESK/raw/refs/heads/main/README.md"        
-},
 {
     "titre": "LICENCE",
     "soustitre": "Consulter la licence DoMyDesk",
     "date": "2026-06-01",
     "description": "LICENCE Domydesk",
-    "pdf": "https://github.com/synohomes/DOMYDESK/raw/refs/heads/main/README.md",
+    "pdf": "https://github.com/synohomes/DOMYDESK/blob/main/LICENCE.pdf",
     "size": "33.8 KB"
   }
 ]
