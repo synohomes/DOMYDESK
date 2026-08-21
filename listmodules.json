@@ -2,7 +2,7 @@
   {
     "id": "meteov2",
     "name": "Meteo",
-    "description": "🆓🔄 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
+    "description": "🧰 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
     "author": "SynoHomes",
     "category": "Productivité",
@@ -24,7 +24,7 @@
   {
     "id": "DMD-Animals",
     "name": "Animals",
-    "description": "🆓🔄 Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
+    "description": "🧰 Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
     "version": "1.6.2",
     "author": "SynoHomes",
     "category": "Productivité",
@@ -34,8 +34,8 @@
   },
   {
     "id": "DMD-Contact",
-    "name": "Contacts",
-    "description": "🆓🔄 Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
+    "name": "Contacts (compatible MyDesk 🧰)",
+    "description": "🧰 Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
     "version": "1.4.3",
     "author": "SynoHomes",
     "category": "Productivité",
