@@ -2,9 +2,9 @@
   {
     "id": "meteov2",
     "name": "Meteo",
-    "description": "🧰 Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
+    "description": "Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
-    "author": "🧰 SynoHomes",
+    "author": "SynoHomes",
     "category": "Productivité",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdmeteo2.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
@@ -24,7 +24,7 @@
   {
     "id": "DMD-Animals",
     "name": "Animals",
-    "description": "🧰 Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
+    "description": "Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
     "version": "1.6.2",
     "author": "SynoHomes",
     "category": "Productivité",
