@@ -111,7 +111,7 @@
   },
   {
     "id": "DMD-Remote",
-    "name": "Proxmox remote",
+    "name": "Remote-Agent",
     "description": "🆓🔄 Controler, administrer tous vos ordinateurs Windows après leur avoir installé l'agent DMD-Agent & DMD-MyDesk.",
     "version": "3.4.7",
     "author": "SynoHomes",
