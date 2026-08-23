@@ -1,0 +1,359 @@
+{
+    "schema": "DMD-SERVICES-CATALOG-V1",
+    "generated_at": "2026-08-23T17:46:33+02:00",
+    "source_schema": "DMD-BILLING-TARIFFS-V3",
+    "source_updated_at": "2026-08-22T20:47:55+02:00",
+    "currency": "EUR",
+    "price_mode": "HT",
+    "request_type": "quote_request",
+    "notice": "Les montants affichés sont une estimation du barème en vigueur. Toute demande donne lieu à un devis établi par l’association.",
+    "products": {
+        "instances": {
+            "label": "DMD-Instances",
+            "unit": "instances",
+            "description": "Nombre maximal d’instances DoMyDesk / DoMySocial couvertes."
+        },
+        "remotes": {
+            "label": "DMD-Remote",
+            "unit": "PC",
+            "description": "Nombre maximal de postes pouvant être pilotés à distance."
+        },
+        "mydesk": {
+            "label": "DMD-MyDesk",
+            "unit": "modules",
+            "description": "Nombre maximal de modules utilisables dans MyDesk."
+        },
+        "ticketing_external": {
+            "label": "DMD-Ticketing — échanges externes",
+            "unit": "clients",
+            "description": "Nombre maximal d’entreprises clientes externes actives autorisées côté Support."
+        }
+    },
+    "profiles": {
+        "private_nonprofit": {
+            "label": "Particulier / association non lucrative",
+            "customer_kinds": [
+                "particulier",
+                "association_non_lucrative"
+            ],
+            "instances": [
+                {
+                    "min": 1,
+                    "max": 2,
+                    "label": "1 à 2 instances",
+                    "first_year_ht": 0,
+                    "renewal_ht": 0
+                },
+                {
+                    "min": 3,
+                    "max": 4,
+                    "label": "3 à 4 instances",
+                    "first_year_ht": 79,
+                    "renewal_ht": 99
+                },
+                {
+                    "min": 5,
+                    "max": 9,
+                    "label": "5 à 9 instances",
+                    "first_year_ht": 129,
+                    "renewal_ht": 149
+                },
+                {
+                    "min": 10,
+                    "max": 20,
+                    "label": "10 à 20 instances",
+                    "first_year_ht": 179,
+                    "renewal_ht": 199
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 instances",
+                    "first_year_ht": 249,
+                    "renewal_ht": 269
+                },
+                {
+                    "min": 51,
+                    "max": null,
+                    "label": "51+ instances",
+                    "first_year_ht": null,
+                    "renewal_ht": null
+                }
+            ],
+            "remotes": [
+                {
+                    "min": 1,
+                    "max": 5,
+                    "label": "1 à 5 Remote",
+                    "first_year_ht": 0,
+                    "renewal_ht": 0
+                },
+                {
+                    "min": 6,
+                    "max": 10,
+                    "label": "6 à 10 Remote",
+                    "first_year_ht": 109,
+                    "renewal_ht": 129
+                },
+                {
+                    "min": 11,
+                    "max": 20,
+                    "label": "11 à 20 Remote",
+                    "first_year_ht": 139,
+                    "renewal_ht": 159
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 Remote",
+                    "first_year_ht": 189,
+                    "renewal_ht": 209
+                },
+                {
+                    "min": 51,
+                    "max": 100,
+                    "label": "51 à 100 Remote",
+                    "first_year_ht": 269,
+                    "renewal_ht": 289
+                },
+                {
+                    "min": 101,
+                    "max": null,
+                    "label": "101+ Remote",
+                    "first_year_ht": 599,
+                    "renewal_ht": null
+                }
+            ],
+            "mydesk": [
+                {
+                    "min": 1,
+                    "max": 5,
+                    "label": "1 à 5 modules MyDesk",
+                    "first_year_ht": 0,
+                    "renewal_ht": 0
+                },
+                {
+                    "min": 6,
+                    "max": 10,
+                    "label": "6 à 10 modules MyDesk",
+                    "first_year_ht": 25,
+                    "renewal_ht": 25
+                },
+                {
+                    "min": 11,
+                    "max": 20,
+                    "label": "11 à 20 modules MyDesk",
+                    "first_year_ht": 49,
+                    "renewal_ht": 49
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 modules MyDesk",
+                    "first_year_ht": 79,
+                    "renewal_ht": 79
+                },
+                {
+                    "min": 51,
+                    "max": null,
+                    "label": "51+ modules MyDesk",
+                    "first_year_ht": 119,
+                    "renewal_ht": 119
+                }
+            ]
+        },
+        "professional": {
+            "label": "Entreprise / professionnel / activité économique",
+            "customer_kinds": [
+                "entreprise",
+                "auto_entrepreneur",
+                "association_commerciale",
+                "association"
+            ],
+            "instances": [
+                {
+                    "min": 1,
+                    "max": 2,
+                    "label": "1 à 2 instances",
+                    "first_year_ht": 0,
+                    "renewal_ht": 0
+                },
+                {
+                    "min": 3,
+                    "max": 4,
+                    "label": "3 à 4 instances",
+                    "first_year_ht": 179,
+                    "renewal_ht": 199
+                },
+                {
+                    "min": 5,
+                    "max": 9,
+                    "label": "5 à 9 instances",
+                    "first_year_ht": 229,
+                    "renewal_ht": 249
+                },
+                {
+                    "min": 10,
+                    "max": 20,
+                    "label": "10 à 20 instances",
+                    "first_year_ht": 329,
+                    "renewal_ht": 349
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 instances",
+                    "first_year_ht": 449,
+                    "renewal_ht": 499
+                },
+                {
+                    "min": 51,
+                    "max": null,
+                    "label": "51+ instances",
+                    "first_year_ht": null,
+                    "renewal_ht": null
+                }
+            ],
+            "remotes": [
+                {
+                    "min": 1,
+                    "max": 10,
+                    "label": "1 à 10 Remote",
+                    "first_year_ht": 129,
+                    "renewal_ht": 149
+                },
+                {
+                    "min": 11,
+                    "max": 20,
+                    "label": "11 à 20 Remote",
+                    "first_year_ht": 159,
+                    "renewal_ht": 179
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 Remote",
+                    "first_year_ht": 249,
+                    "renewal_ht": 269
+                },
+                {
+                    "min": 51,
+                    "max": 100,
+                    "label": "51 à 100 Remote",
+                    "first_year_ht": 349,
+                    "renewal_ht": 369
+                },
+                {
+                    "min": 101,
+                    "max": null,
+                    "label": "101+ Remote",
+                    "first_year_ht": 599,
+                    "renewal_ht": null
+                }
+            ],
+            "mydesk": [
+                {
+                    "min": 1,
+                    "max": 5,
+                    "label": "1 à 5 modules MyDesk",
+                    "first_year_ht": 45,
+                    "renewal_ht": 45
+                },
+                {
+                    "min": 6,
+                    "max": 10,
+                    "label": "6 à 10 modules MyDesk",
+                    "first_year_ht": 75,
+                    "renewal_ht": 75
+                },
+                {
+                    "min": 11,
+                    "max": 20,
+                    "label": "11 à 20 modules MyDesk",
+                    "first_year_ht": 119,
+                    "renewal_ht": 119
+                },
+                {
+                    "min": 21,
+                    "max": 50,
+                    "label": "21 à 50 modules MyDesk",
+                    "first_year_ht": 169,
+                    "renewal_ht": 169
+                },
+                {
+                    "min": 51,
+                    "max": null,
+                    "label": "51+ modules MyDesk",
+                    "first_year_ht": 249,
+                    "renewal_ht": 249
+                }
+            ]
+        }
+    },
+    "ticketing_external": {
+        "label": "DMD-Ticketing — échanges externes",
+        "bands": [
+            {
+                "min": 1,
+                "max": 10,
+                "label": "1 à 10 clients",
+                "first_year_ht": 249,
+                "renewal_ht": 249
+            },
+            {
+                "min": 11,
+                "max": 20,
+                "label": "11 à 20 clients",
+                "first_year_ht": 449,
+                "renewal_ht": 449
+            },
+            {
+                "min": 21,
+                "max": 40,
+                "label": "21 à 40 clients",
+                "first_year_ht": 699,
+                "renewal_ht": 699
+            },
+            {
+                "min": 41,
+                "max": 75,
+                "label": "41 à 75 clients",
+                "first_year_ht": 999,
+                "renewal_ht": 999
+            },
+            {
+                "min": 76,
+                "max": null,
+                "label": "76+ clients",
+                "first_year_ht": null,
+                "renewal_ht": null
+            }
+        ]
+    },
+    "support": [
+        {
+            "id": "autonome",
+            "label": "Autonome",
+            "price_ht": 0,
+            "description": "Documentation et mises à jour, sans engagement de délai de réponse."
+        },
+        {
+            "id": "standard",
+            "label": "Standard",
+            "price_ht": 149,
+            "description": "Tickets/email et assistance DoMyDesk, réponse cible sous 2 jours ouvrés."
+        },
+        {
+            "id": "prioritaire",
+            "label": "Prioritaire",
+            "price_ht": 299,
+            "description": "Tickets prioritaires, assistance Remote, réponse cible sous 1 jour ouvré."
+        },
+        {
+            "id": "premium",
+            "label": "Premium",
+            "price_ht": 599,
+            "description": "Priorité haute et accompagnement renforcé."
+        }
+    ]
+}
