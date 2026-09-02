@@ -22,17 +22,6 @@
     "enabled": true
   },
   {
-    "id": "DMD-Animals",
-    "name": "Animals",
-    "description": "Comment gérer votre meute de chien, comment gérer les animaux que vous avez dans votre SAP ou votre refuse, comment gérer votre élevage d'animaux, si vous vous posez une de ces questions ce module est fait pour vous.",
-    "version": "1.6.2",
-    "author": "🧰⚡ SynoHomes",
-    "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdanimals.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Animals.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-Contact",
     "name": "Contacts",
     "description": "Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
@@ -77,17 +66,6 @@
     "enabled": true
   },
   {
-    "id": "DMD-GenPW",
-    "name": "VaultPassword",
-    "description": "🆓🔄 Coffre fort sécurisé pour vos mot de passe, générateur de mot de passe, tout vos identifiants pour votre site web, vos mots de passe WIFI, des notes sécurisés, partages de vos informations avec une personne dans Domydesk et bien d'autres options.",
-    "version": "2.1.7",
-    "author": "🧰⚡ SynoHomes",
-    "category": "Sécurité",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/genpw.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-GenPW.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-Ha.V2",
     "name": "HomeAssistantremote",
     "description": "🆓🔄 Controler / Visualiser votre HommeAssistant directement depuis Domydesk.",
@@ -110,17 +88,6 @@
     "enabled": true
   },
   {
-    "id": "DMD-Remote",
-    "name": "Remote-Agent",
-    "description": "🆓🔄 Controler, administrer tous vos ordinateurs Windows après leur avoir installé l'agent DMD-Agent & DMD-MyDesk.",
-    "version": "3.4.7",
-    "author": "🧰⚡ SynoHomes",
-    "category": "IT",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-ToDoList",
     "name": "To Do List",
     "description": "🆓🔄 Gérer vos tâches à faire rapidement et efficacement, vous pouvez partager une liste de tâches et agir ensemble sur cette liste.",
@@ -140,28 +107,6 @@
     "category": "IT",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmd3dprint.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
-    "enabled": true
-  },
-  {
-    "id": "DMD-Ticketing",
-    "name": "Ticketing",
-    "description": "🆓🔄 Créer un ticket d'incident en interne ou directement chez Synohomes / DoMyCo. Vous pourrez aussi gérer les tickets de vos différents clients.",
-    "version": "2.0.7",
-    "author": "🧰⚡ SynoHomes",
-    "category": "IT",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/ticketing.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/dmd-ticketing.zip",
-    "enabled": true
-  },
-  {
-    "id": "DMD-Photos",
-    "name": "Album photos",
-    "description": "🆓🔄 Créer, partager, trier vos photos et vos albums photos.",
-    "version": "1.1.7",
-    "author": "🧰 SynoHomes",
-    "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdphotos.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Photos.zip",
     "enabled": true
   }
 ]
