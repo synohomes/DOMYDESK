@@ -44,17 +44,6 @@
     "enabled": true
   },
   {
-    "id": "DMD-Folder",
-    "name": "Folder",
-    "description": "🆓🔄 Comment naviguer dans votre dossier DoMyDesk et pouvoir ajouter/supprimer/renommer facilement vos fichiers et dossier.",
-    "version": "1.2.7",
-    "author": "🧰 SynoHomes",
-    "category": "Productivité",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdfolder.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/blob/main/DMD-Folder.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-Games",
     "name": "Games",
     "description": "🆓🔄 22 petits jeux pour vous détendre.",
@@ -74,17 +63,6 @@
     "category": "IT",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Ha.V2.zip",
-    "enabled": true
-  },
-  {
-    "id": "DMD-Proxmox",
-    "name": "Proxmox remote",
-    "description": "🆓🔄 Plus besoin d'aller sur votre proxmox pour ajouter un ISO, créer une VM, visualiser votre VM, contrôler en remote votre VM, supprimer une VM et bien d'autres actions, une gestion simple de votre virtualiseur.",
-    "version": "2.4.7",
-    "author": "🧰⚡ SynoHomes",
-    "category": "IT",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/proxmoxv2.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Proxmox.zip",
     "enabled": true
   },
   {
