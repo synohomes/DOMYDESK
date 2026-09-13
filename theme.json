@@ -1,11 +1,11 @@
 [
 {
-  "name": "Theme Violet / Purple",
-  "date": "2026-06-24",
-  "description": "Un thème sur une base de violet",
-  "image": "https://github.com/synohomes/Themes_DmD/blob/main/purple.png?raw=true",
-  "dl": "https://github.com/synohomes/Themes_DmD/raw/refs/heads/main/purple.zip",
-  "size": "143 ko"
+  "name": "Theme Bleu",
+  "date": "2026-08-13",
+  "description": "Un thème sur une base du bleu",
+  "image": "https://github.com/synohomes/DMD-THEMES/blob/main/blue.png?raw=true",
+  "dl": "https://github.com/synohomes/DMD-THEMES/raw/refs/heads/main/blue.zip",
+  "size": "65 ko"
 }
 ]
 
