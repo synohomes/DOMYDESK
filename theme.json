@@ -6,6 +6,22 @@
   "image": "https://github.com/synohomes/DMD-THEMES/blob/main/blue.png?raw=true",
   "dl": "https://github.com/synohomes/DMD-THEMES/raw/refs/heads/main/blue.zip",
   "size": "65 ko"
+},
+{
+  "name": "Theme Batman",
+  "date": "2026-08-13",
+  "description": "Un thème sur une base du personnage Batman",
+  "image": "https://github.com/synohomes/DMD-THEMES/blob/main/batman.png?raw=true",
+  "dl": "https://github.com/synohomes/DMD-THEMES/raw/refs/heads/main/Batman.zip",
+  "size": "65 ko"
+},
+{
+  "name": "Theme Beige",
+  "date": "2026-08-13",
+  "description": "Un thème sur une base de la couleur Beige",
+  "image": "https://github.com/synohomes/DMD-THEMES/blob/main/beige.png?raw=true",
+  "dl": "https://github.com/synohomes/DMD-THEMES/raw/refs/heads/main/Beige.zip",
+  "size": "65 ko"
 }
 ]
 
