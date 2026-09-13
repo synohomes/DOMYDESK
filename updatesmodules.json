@@ -1,11 +1,11 @@
 [
 {
-    "titre": "Update News",
-    "soustitre": "Nouveau lien pour les updates de modules",
-    "date": "Juillet 2026",
+    "titre": "Mise à jour pour modules",
+    "soustitre": "Aucune mise à jour pour le moment",
+    "date": "Septembre 2026",
     "update": "Module",
     "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
-    "url": "https://github.com/synohomes/DMD-Updates/raw/refs/heads/main/NS26001.01.zip"        
+    "url": " "        
 }
 ]
 
