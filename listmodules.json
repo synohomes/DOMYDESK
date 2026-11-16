@@ -86,6 +86,17 @@
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmd3dprint.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-3dprint.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-Ticketing",
+    "name": "Ticketing",
+    "description": "🆓🔄 Créer un ticket d'incident en interne ou vers l'extérieur.",
+    "version": "2.1.1",
+    "author": "🧰⚡ SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/ticketing.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-ticketing.zip",
+    "enabled": true
   }
 ]
 
