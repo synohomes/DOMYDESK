@@ -156,6 +156,16 @@
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/proxmoxv2.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Proxmox.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-RemoteAgent",
+    "name": "DMD-Proxmox",
+    "description": "🆓🔄 Console opérationnelle des PC enrôlés par DMD-Agent avec MFA central DoMyDesk optionnel, scan réseau par PC, fenêtre Remote détachable, processus, services, alimentation, terminal, fichiers, logiciels et Remote",
+    "version": "1.0.35",    "author": "🧰⚡ SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
+    "download_url": "hhttps://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
+    "enabled": true
   }
 ]
 
