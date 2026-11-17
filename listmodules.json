@@ -5,7 +5,7 @@
     "description": "Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
     "author": "🧰 SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdmeteo2.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/meteov2.zip",
     "enabled": true
@@ -16,7 +16,7 @@
     "description": "🆓🔄 Gestion de tâches personnelles ou partagées avec synchronisation des statuts, checklists, modifications, historique et notifications entre utilisateurs. Ajouter, modifier, supprimer ou cocher les étapes d'une checklist. Ajouter ou retirer des participants à une tâche synchronisée. Afficher l'historique des actions et les fiches de tâches. Imprimer une fiche ou l'historique complet et utiliser l'impression PDF du navigateur...",
     "version": "2.1.0",
     "author": "🧰⚡ SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/todolist.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
     "enabled": true
@@ -27,7 +27,7 @@
     "description": "Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
     "version": "1.4.3",
     "author": "🧰 SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdcontact.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Contact.zip",
     "enabled": true
@@ -38,7 +38,7 @@
     "description": "🆓🔄 Convertir toutes les unités facilement et rapidement.",
     "version": "1.9.8",
     "author": "🧰 SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/converter.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Converter.zip",
     "enabled": true
@@ -71,7 +71,7 @@
     "description": "🆓🔄 Gérer vos tâches à faire rapidement et efficacement, vous pouvez partager une liste de tâches et agir ensemble sur cette liste.",
     "version": "4.0.7",
     "author": "🧰⚡ SynoHomes",
-    "category": "Productivité",
+    "category": "Productivite",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
     "enabled": true
@@ -96,6 +96,76 @@
     "category": "IT",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/ticketing.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/dmd-ticketing.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Bloc-Note",
+    "name": "Bloc-Note",
+    "description": "🆓🔄 Bloc-notes compact, partage utilisateurs et groupes DoMyDesk, tâches collaboratives avec notifications, popups dashboard, MyDesk, ActionHub et QuickSession.",
+    "version": "1.4.7",    "author": "🧰⚡ SynoHomes",
+    "category": "Productivite",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/blocnote.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Bloc-Note.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Chess",
+    "name": "Jeu Echec",
+    "description": "🆓🔄 Jeu d'échec solo et multi joueurs. Affichage du prénom et nom des membres DMD dans les parties, invitations et résultats, sans exposer les e-mails dans les étiquettes.",
+    "version": "1.3.2",    "author": "🧰⚡ SynoHomes",
+    "category": "Jeux",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmd-chess.png",
+    "download_url": "hhttps://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Chess.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Folders",
+    "name": "Navigation DMD",
+    "description": "🆓🔄 Naviguer, modifier, supprimer, ajouter, déplacer voici ce que vous pourrez faire dans votre dossier personnel Domydesk.",
+    "version": "1.3.2",    "author": "🧰⚡ SynoHomes",
+    "category": "Productivite",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdfolder.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Folders",
+    "name": "Navigation DMD",
+    "description": "🆓🔄 Gestionnaire de fichiers sécurisé pour DoMyDesk 1.2.0.",
+    "version": "1.2.6",    "author": "🧰⚡ SynoHomes",
+    "category": "Jeux",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdfolder.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-GenPW",
+    "name": "Coffre chiffré",
+    "description": "🆓🔄 Coffre chiffré professionnel DoMyDesk : MFA, historique/restauration, corbeille, audit de sécurité, doublons, rotation/expiration, favoris, tags, recherche avancée, pièces jointes chiffrées, champs secrets, partage, sauvegarde, imports multi-coffres.",
+    "version": "1.4.5",    "author": "🧰⚡ SynoHomes",
+    "category": "Systeme",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/genpw.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Ha.V2",
+    "name": "HomeAssistant v2",
+    "description": "🆓🔄 Consulter les instances et les périphériques Home Assistant.",
+    "version": "2.0.22",    "author": "🧰⚡ SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Ha.V2.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Mail",
+    "name": "Client de messagerie",
+    "description": "🆓🔄 Client de messagerie personnel unifié pour DoMyDesk : multi-comptes, lecture, classement, dossiers/sous-dossiers, signatures HTML, rédaction riche, pièces jointes et actions groupées.",
+    "version": "1.0.0",    "author": "🧰⚡ SynoHomes",
+    "category": "Productivite",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Mail.zip",
     "enabled": true
   }
 ]
