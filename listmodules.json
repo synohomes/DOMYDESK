@@ -124,7 +124,7 @@
     "version": "1.4.5",    "author": "🧰⚡ SynoHomes",
     "category": "Systeme",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/genpw.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-GenPW.zip",
     "enabled": true
   },
   {
@@ -133,7 +133,7 @@
     "description": "🆓🔄 Client de messagerie personnel unifié pour DoMyDesk : multi-comptes, lecture, classement, dossiers/sous-dossiers, signatures HTML, rédaction riche, pièces jointes et actions groupées.",
     "version": "1.0.0",    "author": "🧰⚡ SynoHomes",
     "category": "Productivite",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdmails.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Mail.zip",
     "enabled": true
   },
@@ -164,7 +164,7 @@
     "version": "1.0.35",    "author": "🧰⚡ SynoHomes",
     "category": "IT",
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdremote.png",
-    "download_url": "hhttps://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-RemoteAgent.zip",
     "enabled": true
   }
 ]
