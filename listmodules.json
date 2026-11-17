@@ -136,6 +136,26 @@
 	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
     "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Mail.zip",
     "enabled": true
+  },
+  {
+    "id": "DMD-Photos",
+    "name": "DMD-Photos",
+    "description": "🆓🔄 Photothèque avancée DoMyDesk : timeline, albums publics/privés et collaboratifs, carte, personnes, souvenirs, doublons, partages externes QR + mot de passe, imports, exports, jobs média/vidéo.",
+    "version": "2.0.4",    "author": "🧰⚡ SynoHomes",
+    "category": "Productivite",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdphotos.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Photos.zip",
+    "enabled": true
+  },
+  {
+    "id": "DMD-Proxmox",
+    "name": "DMD-Proxmox",
+    "description": "🆓🔄 Gestion Proxmox multi-node pour DoMyDesk avec droits fins VM/CT, Remote, ActionHub et vue compacte dédiée à DMD-MyDesk.",
+    "version": "2.7.1",    "author": "🧰⚡ SynoHomes",
+    "category": "IT",
+	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/proxmoxv2.png",
+    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Proxmox.zip",
+    "enabled": true
   }
 ]
 
