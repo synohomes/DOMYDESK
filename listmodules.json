@@ -159,7 +159,7 @@
   },
   {
     "id": "DMD-RemoteAgent",
-    "name": "DMD-Proxmox",
+    "name": "DMD-RemoteAgent",
     "description": "🆓🔄 Console opérationnelle des PC enrôlés par DMD-Agent avec MFA central DoMyDesk optionnel, scan réseau par PC, fenêtre Remote détachable, processus, services, alimentation, terminal, fichiers, logiciels et Remote",
     "version": "1.0.35",    "author": "🧰⚡ SynoHomes",
     "category": "IT",
