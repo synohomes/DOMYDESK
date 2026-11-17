@@ -1,7 +1,7 @@
 [
   {
-    "id": "meteov2",
-    "name": "Meteo",
+    "id": "DMD-Meteo",
+    "name": "DMD-Meteo",
     "description": "Module vous permettant de connaitre la météo de votre ville ou de plusieurs villes dans le monde",
     "version": "1.2.2",
     "author": "🧰 SynoHomes",
@@ -11,19 +11,8 @@
     "enabled": true
   },
   {
-    "id": "DMD-Todolist",
-    "name": "To-Do-List",
-    "description": "🆓🔄 Gestion de tâches personnelles ou partagées avec synchronisation des statuts, checklists, modifications, historique et notifications entre utilisateurs. Ajouter, modifier, supprimer ou cocher les étapes d'une checklist. Ajouter ou retirer des participants à une tâche synchronisée. Afficher l'historique des actions et les fiches de tâches. Imprimer une fiche ou l'historique complet et utiliser l'impression PDF du navigateur...",
-    "version": "2.1.0",
-    "author": "🧰⚡ SynoHomes",
-    "category": "Productivite",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/todolist.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Todolist.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-Contact",
-    "name": "Contacts",
+    "name": "DMD-Contacts",
     "description": "Enregistrer vos contacts avec une fiche complète pour vos contacts privés et / ou professionnels. Tout dans un seul module.",
     "version": "1.4.3",
     "author": "🧰 SynoHomes",
@@ -34,7 +23,7 @@
   },
   {
     "id": "DMD-Converter",
-    "name": "Converter",
+    "name": "DMD-Converter",
     "description": "🆓🔄 Convertir toutes les unités facilement et rapidement.",
     "version": "1.9.8",
     "author": "🧰 SynoHomes",
@@ -45,7 +34,7 @@
   },
   {
     "id": "DMD-Games",
-    "name": "Games",
+    "name": "DMD-Games",
     "description": "🆓🔄 22 petits jeux pour vous détendre.",
     "version": "1.1.7",
     "author": "🧰 SynoHomes",
@@ -56,7 +45,7 @@
   },
   {
     "id": "DMD-Ha.V2",
-    "name": "HomeAssistantremote",
+    "name": "DMD-Ha.V2",
     "description": "🆓🔄 Controler / Visualiser votre HommeAssistant directement depuis Domydesk.",
     "version": "1.1.7",
     "author": "🧰⚡ SynoHomes",
@@ -67,7 +56,7 @@
   },
   {
     "id": "DMD-ToDoList",
-    "name": "To Do List",
+    "name": "DMD-ToDoList",
     "description": "🆓🔄 Gérer vos tâches à faire rapidement et efficacement, vous pouvez partager une liste de tâches et agir ensemble sur cette liste.",
     "version": "4.0.7",
     "author": "🧰⚡ SynoHomes",
@@ -78,7 +67,7 @@
   },
   {
     "id": "DMD-3dprint",
-    "name": "Imprimante 3D",
+    "name": "DMD-3dprint",
     "description": "🆓🔄 Gérer votre imprimante 3D directement sur le dashboard ou sur votre bureau en PWA.",
     "version": "1.1.7",
     "author": "🧰⚡ SynoHomes",
@@ -89,7 +78,7 @@
   },
   {
     "id": "DMD-Ticketing",
-    "name": "Ticketing",
+    "name": "DMD-Ticketing",
     "description": "🆓🔄 Créer un ticket d'incident en interne ou vers l'extérieur.",
     "version": "2.1.1",
     "author": "🧰⚡ SynoHomes",
@@ -100,7 +89,7 @@
   },
   {
     "id": "DMD-Bloc-Note",
-    "name": "Bloc-Note",
+    "name": "DMD-Bloc-Note",
     "description": "🆓🔄 Bloc-notes compact, partage utilisateurs et groupes DoMyDesk, tâches collaboratives avec notifications, popups dashboard, MyDesk, ActionHub et QuickSession.",
     "version": "1.4.7",    "author": "🧰⚡ SynoHomes",
     "category": "Productivite",
@@ -110,7 +99,7 @@
   },
   {
     "id": "DMD-Chess",
-    "name": "Jeu Echec",
+    "name": "DMD-Chess",
     "description": "🆓🔄 Jeu d'échec solo et multi joueurs. Affichage du prénom et nom des membres DMD dans les parties, invitations et résultats, sans exposer les e-mails dans les étiquettes.",
     "version": "1.3.2",    "author": "🧰⚡ SynoHomes",
     "category": "Jeux",
@@ -120,7 +109,7 @@
   },
   {
     "id": "DMD-Folders",
-    "name": "Navigation DMD",
+    "name": "DMD-Folders",
     "description": "🆓🔄 Naviguer, modifier, supprimer, ajouter, déplacer voici ce que vous pourrez faire dans votre dossier personnel Domydesk.",
     "version": "1.3.2",    "author": "🧰⚡ SynoHomes",
     "category": "Productivite",
@@ -129,18 +118,8 @@
     "enabled": true
   },
   {
-    "id": "DMD-Folders",
-    "name": "Navigation DMD",
-    "description": "🆓🔄 Gestionnaire de fichiers sécurisé pour DoMyDesk 1.2.0.",
-    "version": "1.2.6",    "author": "🧰⚡ SynoHomes",
-    "category": "Jeux",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdfolder.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Folder.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-GenPW",
-    "name": "Coffre chiffré",
+    "name": "DMD-GenPW",
     "description": "🆓🔄 Coffre chiffré professionnel DoMyDesk : MFA, historique/restauration, corbeille, audit de sécurité, doublons, rotation/expiration, favoris, tags, recherche avancée, pièces jointes chiffrées, champs secrets, partage, sauvegarde, imports multi-coffres.",
     "version": "1.4.5",    "author": "🧰⚡ SynoHomes",
     "category": "Systeme",
@@ -149,18 +128,8 @@
     "enabled": true
   },
   {
-    "id": "DMD-Ha.V2",
-    "name": "HomeAssistant v2",
-    "description": "🆓🔄 Consulter les instances et les périphériques Home Assistant.",
-    "version": "2.0.22",    "author": "🧰⚡ SynoHomes",
-    "category": "IT",
-	"avatar": "https://github.com/synohomes/DMD-modules/blob/main/dmdha.png",
-    "download_url": "https://github.com/synohomes/DMD-modules/raw/refs/heads/main/DMD-Ha.V2.zip",
-    "enabled": true
-  },
-  {
     "id": "DMD-Mail",
-    "name": "Client de messagerie",
+    "name": "DMD-Mail",
     "description": "🆓🔄 Client de messagerie personnel unifié pour DoMyDesk : multi-comptes, lecture, classement, dossiers/sous-dossiers, signatures HTML, rédaction riche, pièces jointes et actions groupées.",
     "version": "1.0.0",    "author": "🧰⚡ SynoHomes",
     "category": "Productivite",
