@@ -79,7 +79,7 @@
   {
     "id": "dmd-ticketing",
     "name": "dmd-ticketing",
-    "description": "🆓🔄 Créer un ticket d'incident en interne ou vers l'extérieur.",
+    "description": "🆓🔄 DMD-Ticketing est un système de support distribué intégré à DoMyDesk, permettant de gérer localement les demandes, de les partager avec une organisation de support et, si nécessaire, d’escalader l’intégralité du ticket jusqu’au support central DomyCo tout en conservant la continuité des échanges.",
     "version": "2.1.1",
     "author": "🧰⚡ SynoHomes",
     "category": "IT",
