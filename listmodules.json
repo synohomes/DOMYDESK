@@ -77,7 +77,7 @@
     "enabled": true
   },
   {
-    "id": "DMD-Ticketing",
+    "id": "dmd-ticketing",
     "name": "DMD-Ticketing",
     "description": "🆓🔄 Créer un ticket d'incident en interne ou vers l'extérieur.",
     "version": "2.1.1",
