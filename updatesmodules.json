@@ -13,7 +13,7 @@
     "date": "Novembre 2026",
     "update": "Module",
     "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
-    "url": "https://github.com/synohomes/DMD-Updates/raw/refs/heads/main/dmd-ticketing_1.2.222.zip"        
+    "url": "https://raw.githubusercontent.com/synohomes/DMD-Updates/refs/heads/main/dmd-ticketing_1.2.222.zip"        
 }
 ]
 
