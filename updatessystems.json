@@ -6,7 +6,7 @@
         "date": "2026-08-09",
         "update": "1.2.1-test",
         "description": "Ceci est uniquement une entrée de test pour vérifier que DoMyDesk récupère correctement le catalogue depuis GitHub.",
-        "download_url": "https://github.com/synohomes/DOMYDESK/raw/refs/heads/main/test-update.zip"
+        "download_url": "https://github.com/synohomes/DMD-Updates/raw/refs/heads/main/domydesk2.zip"
     }
 ]
 
