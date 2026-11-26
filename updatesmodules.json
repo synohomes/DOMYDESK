@@ -6,6 +6,14 @@
     "update": "Module",
     "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
     "url": " "        
+},
+    {
+    "titre": "Mise à jour pour modules2",
+    "soustitre": "Aucune mise à jour pour le moment Essai 2",
+    "date": "Novembre 2026",
+    "update": "Module",
+    "description": "Mise à jour du module ToDoList au niveau de son affichage non responsive, suppression de l'exportation PDF.",
+    "url": " "        
 }
 ]
 
