@@ -66,8 +66,8 @@
     "enabled": true
   },
   {
-    "id": "DMD-3dprint",
-    "name": "DMD-3dprint",
+    "id": "dmd-3dprint",
+    "name": "dmd-3dprint",
     "description": "🆓🔄 Gérer votre imprimante 3D directement sur le dashboard ou sur votre bureau en PWA.",
     "version": "1.2.10",
     "author": "🧰⚡ SynoHomes",
